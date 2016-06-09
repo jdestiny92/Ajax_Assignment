@@ -1,0 +1,16 @@
+#input {
+	float:right;
+	border: 2px solid blue;
+}
+
+#submit {
+	margin-left: 30%;
+}
+
+button {
+	margin-left: 20px;
+}
+
+#gifContainer {
+	float:left;
+}
